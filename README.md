@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fadymalak
 - 👀 I’m interested in python and Deep Learning
-- 🌱 I’m currently learning FastAPI / Clean Code
+- 🌱 I’m currently learning FastAPI 
 
 <!---
 fadymalak/fadymalak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
