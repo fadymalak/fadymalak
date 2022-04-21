@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fadymalak
-- 👀 I’m interested in python and Deep Learning
+- 👀 I’m interested in python and Web Development and Mathematics
 - 🌱 I’m currently learning FastAPI 
 
 <!---
